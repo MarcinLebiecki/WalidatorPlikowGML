@@ -4,9 +4,9 @@
 
 [general]
 name=Walidator plików GML
-qgisMinimumVersion=3.0
+qgisMinimumVersion=3.22
 description=Walidacja i kontrola plików GML baz: BDOO, BDOT10k, PRNG, GESUT, EGiB, BDOT500
-version=1.0.7
+version=1.0.8
 author=Marcin Lebiecki - Główny Urząd Geodezji i Kartografii
 email=marcin.lebiecki@gugik.gov.pl
 
